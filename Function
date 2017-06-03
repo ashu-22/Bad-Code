@@ -1,0 +1,18 @@
+func(A a)
+{
+if (a instance of B)
+{
+B b = (B) b;
+b.f1();
+b.f2();
+//... only used methods defined in class A
+}
+else
+{
+C c = (C) a;
+c.f1();
+c.f2();
+//... only used methods defined in class A
+//Completely identical to above except "c" replaces "b"
+}
+}
