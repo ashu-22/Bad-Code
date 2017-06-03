@@ -1,0 +1,7 @@
+List getColumn(String name)
+{
+if (cache == null)
+cache = createCache();
+}
+return (List)  cache.get(name);
+}
