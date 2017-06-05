@@ -1,0 +1,7 @@
+BufferedReader reader = new BufferedReader( new FileReader (file));
+String line = null;
+String text = "";
+
+while( ( line = reader.readLine() ) != null ) {
+    text = text + line;
+}
