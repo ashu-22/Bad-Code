@@ -1,0 +1,6 @@
+public static void main(String[] args)
+{
+String str = new String("Ashish");
+String intern = "Ashish".intern();
+System.out.println("String");
+}
