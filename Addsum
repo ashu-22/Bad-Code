@@ -1,0 +1,18 @@
+public class Solution
+{
+public static void main(String[] args)
+{
+static int Addsum(int a, int b)
+{
+int a = 10;
+int b = 20;
+}
+Addsum()
+{
+a = 10;
+b = 20;
+}
+System.out.println("int a is: " + a);
+System.out.println("int b is: " + b);
+}
+}
