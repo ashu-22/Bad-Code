@@ -1,0 +1,14 @@
+public class Solution
+{
+public static void main(String[] args)
+{
+if(i < 10)
+{
+System.out.println("i is less than 10");
+}
+else if(i > 10)
+{
+System.out.println("is is greater than 10");
+}
+}
+}
