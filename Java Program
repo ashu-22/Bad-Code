@@ -1,0 +1,10 @@
+for(int i = j; j < k; k++)
+{
+for(int j = i; i < l; l++)
+{
+for(int k = o; o < l; l++)
+{
+System.out.println("j:"+"i:"+"k");
+}
+}
+}
