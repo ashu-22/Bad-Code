@@ -1,0 +1,23 @@
+#include<iostream.h>
+using namespace std;
+int n, x, i;
+cin >> n >> x >> i;
+int n = 0;
+int x = 1;
+int i = 2;
+if(n != 0)
+{
+cin >> n >> " " >>
+}
+else(n != 0)
+{
+cout << n << " " <<
+}
+int x = 1;
+cin >> x >> " " >>
+int i = 2;
+cout << i << "" <<
+while(i != x)
+printf("%d", "%d", &i, &n, &x);
+scanf("Enter the value of i,n and x");
+}
